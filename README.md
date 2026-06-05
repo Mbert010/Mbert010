@@ -15,4 +15,4 @@ About Me
 
 ## 🛠️ Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,django,sqlite,git,github,pycharm)
+![My Skills](https://skillicons.dev/icons?i=python,django,sqlite,git,html,css,js)

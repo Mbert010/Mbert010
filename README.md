@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Mbert010&fontSize=50&animation=fadeIn)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Learning+New+Technologies;Building+Cool+Projects;Always+Curious+To+Learn" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer" alt="Typing SVG" />
 </p>
 
 Hey 👋 I'm Mbert010

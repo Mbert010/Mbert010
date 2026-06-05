@@ -12,3 +12,7 @@ About Me
 - Learning Django
 - Interested in Backend Development
 - Love Technology and Gaming
+
+🛠️ Technologies & Tools
+
+"My Skills" (https://skillicons.dev/icons?i=python,django,sqlite,git,github,pycharm)
